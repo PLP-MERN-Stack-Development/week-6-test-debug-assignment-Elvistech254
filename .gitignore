@@ -1,0 +1,16 @@
+# Ignore dependencies
+client/node_modules/
+server/node_modules/
+node_modules/
+
+# Ignore build artifacts
+dist/
+build/
+
+# Ignore environment files
+.env
+.env.local
+
+# System-specific
+.DS_Store
+*.log
